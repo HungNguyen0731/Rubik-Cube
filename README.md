@@ -1,7 +1,7 @@
 # Rubik-Cube
 
 # <p align="center">✨Rubik-Cube✨</p>
- 
+ Phuong Ngu
 
 <p align="center">
   <a href="https://github.com/Dev-tanay/Rubik-Cube/issues">
